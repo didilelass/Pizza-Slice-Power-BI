@@ -34,7 +34,7 @@ To overcome the enterprise licensing barriers associated with embedded canvas ch
 - Engineered custom **DAX measures** to calculate dynamic, time-intelligent KPIs including total revenue, order frequency distributions, and category-level profit margins.
 
 #### 📊 Power BI Desktop Modeling Environment
-![Power BI Data Relationships and DAX Architecture](assets/3-powerbi-model.png)
+![Power BI Data Relationships and DAX Architecture](assets/3-power-bi-model.png)
 
 ---
 
@@ -44,7 +44,7 @@ To overcome the enterprise licensing barriers associated with embedded canvas ch
 - **The Solution:** By opening the dashboard via the **Microsoft Edge browser**, the native browser AI sidebar can securely scan the active workspace layout, read the pizza charts, and provide live, automated operational commentary completely free of charge.
 
 #### 🤖 Live AI Sidebar Interface
-![Microsoft Edge AI Side-by-Side Dashboard Workspace](assets/4-edge-ai.png)
+![Microsoft Edge AI Side-by-Side Dashboard Workspace](assets/5-edge-ai.png)
 
 ---
 
