@@ -35,6 +35,7 @@ To overcome the enterprise licensing barriers associated with embedded canvas ch
 
 #### 📊 Power BI Desktop Modeling Environment
 ![Power BI Data Relationships and DAX Architecture](assets/3-power-bi-model.png)
+![Power BI Data Relationships and DAX Architecture](assets/4-power-bi-visual-creation.png)
 
 ---
 
